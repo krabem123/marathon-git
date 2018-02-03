@@ -2,3 +2,4 @@ Mythic - Juswin
 Combat - Jonet
 Tree - Hardy
 Epic - Juswin
+Conclusion - Jonet
