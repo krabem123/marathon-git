@@ -3,3 +3,4 @@ Combat - Jonet
 Tree - Hardy
 Epic - Juswin
 Comeback - Jonet
+Kill - Hardy
